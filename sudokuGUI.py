@@ -384,7 +384,7 @@ def main() -> object:
                                 wrong += 1
 
                                 board.tiles[selected[1]][selected[0]].value = 0
-                                del keyDict[selected]
+                                # del keyDict[selected]
                                 #break
 
                             board.tiles[selected[1]][selected[0]].value = keyDict[
