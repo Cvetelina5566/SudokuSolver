@@ -1,2 +1,2 @@
 # SudokuSolver
-Backtracking algorithm and PyGame
+Sudoku game using Backtracking algorithm and PyGame
